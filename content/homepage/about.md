@@ -8,4 +8,4 @@ header_menu: false
 
 <!-- ##### Professionel Experience -->
 
-The Zero Trust day is a one-day event that will help you to understand the Zero Trust concept and how to implement it in your organization. The event is designed for IT professionals, security professionals, and business leaders. We aim to provide you with the knowledge and tools to start your Zero Trust journey as well as to help you to understand the challenges and opportunities that come with it.
+The Zero Trust day is a one-day event that is supposed to help you focus on the concept of Zero Trust and how to implement it in your organization. The day is for IT professionals, security professionals, and business leaders. There are plenty of resources available through different vendors to help you on your Zero Trust journey as well as to help you to understand the challenges and opportunities that come with it.
